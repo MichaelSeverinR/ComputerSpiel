@@ -42,10 +42,10 @@ Kostenschätzung:
 Gesamt: 0€ (ev. <100€)
  
 ## Projektorganisation (Rollen) 
--2 Teammitglieder
+2 Teammitglieder (gleichwertige Aufteilung)
 
 ### Projektauftraggeber
--Klewein
+Klewein
 
 ### Projektleiter 
 Ratzenböck & Ngimbi

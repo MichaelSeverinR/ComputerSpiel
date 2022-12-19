@@ -9,3 +9,4 @@ Das Team ist komplett neu in der Welt des Programmierens und kann zur Zeit noch 
 
 Das Team besteht aus Mombo Ngimbi und Michael Ratzenböck.
 
+Hallo Mombo

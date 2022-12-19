@@ -4,7 +4,8 @@
 Wir wurden im Fach HTBLA Leonding beauftragt ein Jahresprojekt zu gestalten. Dies soll mit C# implementiert werden & es soll uns unterstützen neue Technologieen anzueigenen, welche wir teils paralell im Unterrichtsfach POS erlernen
 
 ## Projektziele / Nicht-Ziele (quantifizierbaremessbare) und nicht quantifizierbare Ziele 
-Ziele: Eine Android Applikation welche auf einem Zeichenprogramm ähnlich zu Paint basiert
+Ziele: Eine Android Applikation welche auf einem Zeichenprogramm zu Paint basiert
+
 Nicht-Ziele: keine Webanbindung, keine Komplexeren Zeichentools
 
 ## Projektinhalte (Hauptaufgaben, inhaltliche Komponenten)

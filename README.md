@@ -1,12 +1,54 @@
-# Project Description PaintingRatzNgim
+# Projektauftrag
+## Projekt: Zeichenapp
+## Ausgangssituation / Problemstellung / Vorgeschichte 
+Ausgangssituation / Problemstellung / Vorgeschichte: 
+Wir wurden im Fach HTBLA Leonding beauftragt ein Jahresprojekt zu gestalten. Dies soll mit C# implementiert werden & es soll uns unterstützen neue Technologieen anzueigenen, welche wir teils paralell im Unterrichtsfach POS erlernen
 
+## Projektziele / Nicht-Ziele (quantifizierbaremessbare) und nicht quantifizierbare Ziele 
+Ziele: Eine Android Applikation welche auf einem Zeichenprogramm ähnlich zu Paint basiert
+Nicht-Ziele: keine Webanbindung, keine Komplexeren Zeichentools
 
-Das Ziel des Projekts ist es eine Zeichenapp, angelehnt an Paint, in C# zu programmieren. 
-Zu Beginn wird versucht dies rein als Desktop Umsetzung durchzuführen und im späteren Verlauf dazu noch eine Android Applikation dazu zu fügen.
-Grundlegend soll es in dem Programm möglich sein Linien zu zeichenen, welche der Computermaus/dem Touchscreenimput folgen. Sollte dies rasch umgesetzt werden, so wird versucht durch möglichst viele Erweiterungen die App auch tatsächlich für kreative Zwecke nutzbar zu machen. Anzudenken wäre es im ganz späten Verlauf noch ein kleines Interaktives Spiel zu gestalten, bei dem die davor gezeichneten Objekte steuerbar gemacht werden. 
+## Projektinhalte (Hauptaufgaben, inhaltliche Komponenten)
+- Basis als Desktopanwendung in C# (eventuell im späteren Verlauf mit unity)
+- Android Einbindung in zufriedenstellendem Umfang
+ 
+## Kritische Erfolgsfaktoren 
+Ausreichende Themenbehandlung in POS
 
-Das Team ist komplett neu in der Welt des Programmierens und kann zur Zeit noch nicht einschätzen welche Möglichkeiten es hat das Projekt umzusetzten. Es wird sich vieles auf eigene Faust aneingenen müssen und kann nur wenig auf bestehendem Wissen aufbauen. Dadurch ist das Ausmaß des Projekts zur Zeit (09.12.22) noch nicht abschätzbar. Die ersten Ansätze sind jedoch schon da.
+## Termine 
+noch nicht festgelegt
 
-Das Team besteht aus Mombo Ngimbi und Michael Ratzenböck.
+### Projektstart: Ereignis (z.B. Erstgespräch oder Kick-off Meeting), Termin 
+Kick-off Meeting in SYP am 19.12.2022
 
-Hallo Mombo
+### Projektende: Ereignis (z.B. Abnahme durch Kunden, Termine)
+Abgabe des Projekt Ende des Schuljahres
+
+### Meilensteine/Ecktermine 
+Meilensteine: 
+- erste Desktopapplikation
+- erste Android Version
+- erste Unity Einbindung
+
+Ecktermine: 
+- Projektstart: 19.12.2022
+- Folgende Zwischenabgaben
+
+## Kosten / Ressourcen 
+Kostenschätzung:
+-Zeit welche privat aufgewendet wird
+-Eventuell online Kurse
+
+Gesamt: 0€ (ev. <100€)
+ 
+## Projektorganisation (Rollen) 
+-2 Teammitglieder
+
+### Projektauftraggeber
+-Klewein
+
+### Projektleiter 
+Ratzenböck & Ngimbi
+
+### Projektteammitglieder
+Ratzenböck & Ngimbi

@@ -1,11 +1,11 @@
 # Projektauftrag
 ## Projekt: Zeichenapp
 ## Ausgangssituation / Problemstellung / Vorgeschichte 
-Wir wurden im Fach HTBLA Leonding beauftragt ein Jahresprojekt zu gestalten. 
-Dies soll mit C# implementiert werden & es soll uns unterstützen neue Technologieen anzueigenen, welche wir teils paralell im Unterrichtsfach POS erlernen
+Wir wurden im Fach HTBLA Leonding ein Jahresprojekt zu gestalten beauftragt . 
+Dies soll mit der Programmiersprache C# implementiert werden und es soll uns unterstützen neue Technologie anzueigenen, welche wir teilweise paralell im Unterrichtsfach POS erlernen.
 
-## Projektziele / Nicht-Ziele (quantifizierbaremessbare) und nicht quantifizierbare Ziele 
-Ziele: Eine Android Applikation welche an dem Zeichenprogramm Paint angelehnt ist
+## Projektziele / Nicht-Ziele (Quantifizierbare) und nicht quantifizierbare Ziele 
+Ziele: Eine Android Applikation, die an das Zeichenprogramm Paint angelehnt ist
        Files sind Speicherbar
        Unity Einbindung 
        
@@ -13,7 +13,7 @@ Nicht-Ziele: keine Webanbindung
              keine komplexeren Zeichentools
 
 ## Projektinhalte (Hauptaufgaben, inhaltliche Komponenten)
-- Basis als Desktopanwendung in C# 
+- Basis als Desktopanwendung in der Programmiersprache C# 
 - eventuell im späteren Einbindung von Unity
 - Android Einbindung in zufriedenstellendem Umfang
  
@@ -28,7 +28,7 @@ noch nicht festgelegt
 Kick-off Meeting in SYP am 19.12.2022
 
 ### Projektende: Ereignis (z.B. Abnahme durch Kunden, Termine)
-Abgabe des Projekt Ende des Schuljahres
+Abgabe und Präsentation des Projekts wird am Ende des Schuljahres stattfinden
 
 ### Meilensteine/Ecktermine 
 Meilensteine: 
